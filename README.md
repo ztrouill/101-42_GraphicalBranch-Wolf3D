@@ -17,6 +17,6 @@ You will need :
 2. ./wolf3d maps/fat.map*
 3. enjoy :rocket:
 
-*fat.map is the recommended map but you can also create your own map !
+**fat.map is the recommended map but you can also create your own map !*
 
 ![illu01](/img/1.png)
