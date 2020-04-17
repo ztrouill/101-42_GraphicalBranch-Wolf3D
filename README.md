@@ -6,7 +6,6 @@
 Watch here : https://vimeo.com/408869365
 
 ![illu00](/img/0.png)
-![illu01](/img/1.png)
 
 # HowTo
 
@@ -20,4 +19,4 @@ You will need :
 
 *fat.map is the recommended map but you can also create your own map !
 
-![illu02](/img/2.png)
+![illu01](/img/1.png)
